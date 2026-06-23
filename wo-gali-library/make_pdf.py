@@ -126,6 +126,10 @@ if __name__ == "__main__":
         (f"{base}/WO_GALI_FILE_03.md", f"{base}/pdf/WO_GALI_FILE_03.pdf", "वो गली — FILE 3 (Stories 21-30)"),
         (f"{base}/WO_GALI_FILE_04.md", f"{base}/pdf/WO_GALI_FILE_04.pdf", "वो गली — FILE 4 (Stories 31-40)"),
         (f"{base}/WO_GALI_FILM_41.md", f"{base}/pdf/WO_GALI_FILM_41.pdf", "वो गली — FILM 41 (Cinematic, 12-15 min)"),
+        (f"{base}/WO_GALI_FILM_46.md", f"{base}/pdf/WO_GALI_FILM_46.pdf", "वो गली — FILM 46 : पार उतारन"),
+        (f"{base}/WO_GALI_FILM_47.md", f"{base}/pdf/WO_GALI_FILM_47.pdf", "वो गली — FILM 47 : मोम के चेहरे"),
+        (f"{base}/WO_GALI_FILM_48.md", f"{base}/pdf/WO_GALI_FILM_48.pdf", "वो गली — FILM 48 : आख़िरी कॉल"),
+        (f"{base}/WO_GALI_FILM_49.md", f"{base}/pdf/WO_GALI_FILM_49.pdf", "वो गली — FILM 49 : गन्ने का कोल्हू"),
     ]
     for md, pdf, title in jobs:
         build(md, pdf, title)
