@@ -134,6 +134,7 @@ if __name__ == "__main__":
         (f"{base}/WO_GALI_FILM_47.md", f"{base}/pdf/WO_GALI_FILM_47.pdf", "वो गली — FILM 47 : मोम के चेहरे"),
         (f"{base}/WO_GALI_FILM_48.md", f"{base}/pdf/WO_GALI_FILM_48.pdf", "वो गली — FILM 48 : आख़िरी कॉल"),
         (f"{base}/WO_GALI_FILM_49.md", f"{base}/pdf/WO_GALI_FILM_49.pdf", "वो गली — FILM 49 : गन्ने का कोल्हू"),
+        (f"{base}/WO_GALI_FILM_50.md", f"{base}/pdf/WO_GALI_FILM_50.pdf", "वो गली — FILM 50 : गुड़ियों का कारख़ाना"),
     ]
     for md, pdf, title in jobs:
         build(md, pdf, title)
