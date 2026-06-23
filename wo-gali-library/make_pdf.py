@@ -91,13 +91,13 @@ def build(md_path: str, pdf_path: str, title: str):
         if set(stripped) <= set("-"):
             pdf.ln(1)
             continue
-        if stripped.startswith("STORY ") or stripped.startswith("WO GALI") or stripped.startswith("FILE "):
+        if stripped.startswith("STORY ") or stripped.startswith("WO GALI") or stripped.startswith("FILE ") or stripped.startswith("FILM "):
             pdf.ln(2)
             pdf.set_font("noto", size=15)
             pdf.set_text_color(150, 20, 20)
             safe_multi_cell(pdf, 8, stripped, align="L")
             pdf.ln(1)
-        elif stripped.startswith("PART "):
+        elif stripped.startswith("PART ") or stripped.startswith("SEQUENCE "):
             pdf.ln(1)
             pdf.set_font("noto", size=12)
             pdf.set_text_color(20, 60, 130)
@@ -124,6 +124,8 @@ if __name__ == "__main__":
         (f"{base}/WO_GALI_FILE_01.md", f"{base}/pdf/WO_GALI_FILE_01.pdf", "वो गली — FILE 1 (Stories 01-10)"),
         (f"{base}/WO_GALI_FILE_02.md", f"{base}/pdf/WO_GALI_FILE_02.pdf", "वो गली — FILE 2 (Stories 11-20)"),
         (f"{base}/WO_GALI_FILE_03.md", f"{base}/pdf/WO_GALI_FILE_03.pdf", "वो गली — FILE 3 (Stories 21-30)"),
+        (f"{base}/WO_GALI_FILE_04.md", f"{base}/pdf/WO_GALI_FILE_04.pdf", "वो गली — FILE 4 (Stories 31-40)"),
+        (f"{base}/WO_GALI_FILM_41.md", f"{base}/pdf/WO_GALI_FILM_41.pdf", "वो गली — FILM 41 (Cinematic, 12-15 min)"),
     ]
     for md, pdf, title in jobs:
         build(md, pdf, title)
