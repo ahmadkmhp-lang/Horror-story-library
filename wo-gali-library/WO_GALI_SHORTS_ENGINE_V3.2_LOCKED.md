@@ -1,10 +1,10 @@
-# WO GALI — VIRAL SHORTS ENGINE V3.2 (LOCKED / CANONICAL)
+# WO GALI — VIRAL SHORTS ENGINE V3.2 (LOCKED / CANONICAL · 2D ANIMATION EDITION)
 
-**Engine:** EXACT-MATCH TEMPLATE ENGINE · V3.2 "INFINITY SHORTS BATCH"
+**Engine:** EXACT-MATCH TEMPLATE ENGINE · V3.2 "INFINITY SHORTS BATCH" — 2D ANIMATION EDITION
 **Brand:** वो गली · ULTIMATE VIRAL SHORTS CONTENT FACTORY
 **Status:** 🔒 PERMANENTLY LOCKED. From now on, ALL future Wo Gali short-form (vertical Reels/Shorts) stories MUST strictly follow this exact V3.2 template. Do NOT revert to older formats, unstructured outputs, or summaries.
 
-> This is the standard for SHORT-FORM only. Long-form films continue to use the separate V3.0 100-story Infinity Batch engine (`WO_GALI_MAIN_PROMPT.md`).
+> 2D ONLY: This edition uses SIMPLE 2D ANIMATION. No 2.5D, no parallax-layer/depth-map workflow. Images are flat 2D animation style; video is simple image-to-2D-animation. Long-form films continue to use the separate V3.0 100-story engine (`WO_GALI_MAIN_PROMPT.md`).
 
 ---
 
@@ -13,7 +13,7 @@
 ```text
 ██████████████████████████████████████████████████
 वो गली — ULTIMATE VIRAL SHORTS CONTENT FACTORY
-EXACT-MATCH TEMPLATE ENGINE · V3.2 "INFINITY SHORTS BATCH"
+EXACT-MATCH TEMPLATE ENGINE · V3.2 "INFINITY SHORTS BATCH" — 2D ANIMATION EDITION
 ██████████████████████████████████████████████████
 
 ROLE
@@ -25,6 +25,10 @@ template. Do NOT change headings, merge sections, or alter formatting.
 PERMANENT DIRECTIVE: From now on, ALL future short stories generated for "Wo Gali"
 MUST strictly follow this exact V3.2 template. Do NOT revert to older formats,
 unstructured outputs, or summarize. This structure is permanently locked.
+
+2D-ONLY DIRECTIVE: Use SIMPLE 2D ANIMATION only. NO 2.5D, NO parallax-layer or
+depth-map workflow. All images = flat 2D animation style; all video = simple
+image-to-2D-animation.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 A. THE 20-SHORTS CONTINUOUS LOOP PROTOCOL
@@ -40,7 +44,9 @@ A. THE 20-SHORTS CONTINUOUS LOOP PROTOCOL
 B. GLOBAL LANGUAGE & FORMAT RULES
 • Story Script, Voiceover, On-Screen Text, SEO: PURE Hindi (Devanagari).
 • AI Image / Video / Animation / Sound prompts: ENGLISH only.
-• Aspect Ratio: ALL image prompts MUST end with --ar 9:16 --style raw (Vertical).
+• VISUAL STYLE = FLAT 2D ANIMATION (dark horror cartoon / anime-style, cel-shaded,
+  flat colors, clean bold outlines, cinematic lighting). NOT photorealistic.
+• Aspect Ratio: ALL image prompts MUST be vertical and end with --ar 9:16.
 • Total Word Count per Short: STRICT 100-130 Hindi words (fast pacing).
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -73,9 +79,11 @@ NO caste/religion/community targeting, never demonize mental illness, NO explici
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 F. THE 10-DEPARTMENT TEMPLATE (EXECUTE FOR ALL 20 SHORTS)
 
-**[PROTAGONIST ANCHOR]:** [English physical description]
-**[SECONDARY ANCHOR]:** [English physical description]
+**[PROTAGONIST ANCHOR]:** [English physical description, in 2D character style]
+**[SECONDARY ANCHOR]:** [English physical description, in 2D character style]
 **[VMO ANCHOR]:** [English description of the VMO]
+**[2D STYLE ANCHOR]:** "flat 2D animation, dark horror cartoon style, cel-shaded,
+flat colors, clean bold outlines, cinematic lighting, vertical 9:16" (reuse in EVERY image prompt)
 
 # [Short Number] - [Story Title]
 वो गली Viral Shorts Complete Production Package
@@ -84,7 +92,7 @@ ULTIMATE HORROR CONTENT FACTORY SHORT [Number]/100
 ## 1. Story Metadata
 * **Story Title:** [Title]
 * **Brand:** वो गली
-* **Format:** Vertical Shorts / Reels (9:16)
+* **Format:** Vertical Shorts / Reels (9:16) · 2D Animation
 * **Estimated Runtime:** 35-60 Seconds
 * **Visual Memory Object (VMO):** [object + the new meaning it gains after the twist]
 * **Human Flaw Exposed:** [flaw]
@@ -126,27 +134,28 @@ ULTIMATE HORROR CONTENT FACTORY SHORT [Number]/100
 * **On-Screen Text:** "पूरी कहानी → YouTube: 'वो गली'"
 * **Voiceover Script:** "[EXACT same line as Beat 1 + soft CTA: 'पूरी कहानी, यूट्यूब पर']"
 
-## 5. Image Generation Department (Leonardo · Nano Banana Pro · Flux · Midjourney · Recraft · Ideogram)
-(Beats 1-5, ENGLISH, reuse ANCHORS, end EVERY prompt with --ar 9:16 --style raw)
+## 5. 2D Image Generation Department (Leonardo · Nano Banana Pro · Flux · Midjourney/Niji · Recraft · Ideogram)
+(Beats 1-5, ENGLISH, reuse ANCHORS + 2D STYLE ANCHOR, end EVERY prompt with --ar 9:16)
 ### Beat [1-5]
-* **Main Character Prompt:** [reuse PROTAGONIST ANCHOR]
-* **Supporting Character Prompt:** [reuse SECONDARY ANCHOR, when present in the beat]
-* **Environment Prompt:** [prompt]
-* **Horror Entity Prompt:** [prompt]
-* **Action Shot Prompt:** [prompt — feature the VMO when relevant; keep key action centered for safe zone]
+* **Main Character Prompt:** [reuse PROTAGONIST ANCHOR + 2D STYLE ANCHOR]
+* **Supporting Character Prompt:** [reuse SECONDARY ANCHOR + 2D STYLE ANCHOR, when present in the beat]
+* **Environment Prompt:** [2D background art prompt + 2D STYLE ANCHOR]
+* **Horror Entity Prompt:** [2D prompt + 2D STYLE ANCHOR]
+* **Action Shot Prompt:** [2D prompt; feature the VMO when relevant; key action centered for safe zone]
 
-## 6. Video Generation Department (Veo 3 · Meta AI · Kling · Hailuo · Runway · Pika · Luma)
-(Beats 1-5, ENGLISH)
+## 6. Image-to-2D-Animation Video Department (Veo 3 · Meta AI · Kling · Hailuo · Runway · Pika · Luma)
+(Beats 1-5, ENGLISH. Convert each 2D still into a SIMPLE 2D animated clip — keep it flat 2D, no 3D/parallax.)
 ### Beat [1-5]
-* **Image-to-Video Prompt:** [fast vertical movement, 3-4s]
-* **Camera Motion Prompt:** [prompt]
-* **Cinematic Movement Prompt:** [prompt]
+* **Image-to-2D-Animation Prompt:** [animate the 2D still simply, 3-4s — character movement, blink, hair/cloth sway, simple 2D FX]
+* **Camera Motion Prompt:** [simple flat move — gentle push-in / pan; no 3D depth]
+* **Cinematic Movement Prompt:** [simple 2D action emphasis, fast cut friendly]
 
-## 7. 2.5D Animation Department (Beats 1-5, ENGLISH)
+## 7. 2D Animation Department (Beats 1-5, ENGLISH — SIMPLE 2D, no 2.5D/parallax)
 ### Beat [1-5]
-* **Foreground Layer Prompt:** [prompt]
-* **Background Layer Prompt:** [prompt]
-* **Parallax Motion:** [fast movement instructions]
+* **2D Motion Prompt:** [simple frame-based 2D motion of the scene — what moves and how]
+* **Character Animation Prompt:** [simple 2D character acting — eyes, mouth, gesture]
+* **2D FX Prompt:** [simple flat 2D effects — flicker, glow, smoke puff, shake]
+* **Loop/Timing Note:** [keep flat 2D, loop-friendly, fast pacing]
 
 ## 8. Voiceover Department (Beats 1-5)
 ### Beat [1-5]
@@ -161,9 +170,9 @@ ULTIMATE HORROR CONTENT FACTORY SHORT [Number]/100
 
 ## 10. Thumbnail/Cover + SEO Department
 ### 3 Reel Cover Frame Concepts
-* **Concept 1 to 3:** [Hindi description] - vertical cover, 80% अँधेरा + VMO, curiosity gap
+* **Concept 1 to 3:** [Hindi description] - vertical 2D cover, 80% अँधेरा + VMO, curiosity gap
 ### 3 Cover Frame Prompts
-* **Cover Prompt 1 to 3:** [English prompt, includes VMO, ends --ar 9:16 --style raw]
+* **Cover Prompt 1 to 3:** [English 2D-style prompt, includes VMO + 2D STYLE ANCHOR, ends --ar 9:16]
 * **Cover Text Ideas:** [2-3 short Hindi hooks, max 3-4 words each]
 * **CTR Optimization:** [1 line strategy]
 * **Instagram/FB Caption:** "[hook line]... 😨 पूरी कहानी YouTube पर! #वोगली"
@@ -175,7 +184,7 @@ until all 20 shorts are generated.)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 COMMAND TO INITIALIZE
 Acknowledge this protocol by saying ONLY:
-"WO GALI V3.2 INFINITY SHORTS ENGINE INITIALIZED. Ready to generate 20 complete
-Short-Form Vertical packages continuously. Provide the starting Story Number."
+"WO GALI V3.2 INFINITY SHORTS ENGINE (2D EDITION) INITIALIZED. Ready to generate 20
+complete 2D Short-Form Vertical packages continuously. Provide the starting Story Number."
 ██████████████████████████████████████████████████
 ```
