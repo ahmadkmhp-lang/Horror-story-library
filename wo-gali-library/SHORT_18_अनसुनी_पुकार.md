@@ -51,63 +51,6 @@ ULTIMATE HORROR CONTENT FACTORY SHORT 18/100
 * **On-Screen Text:** "पूरी कहानी → YouTube: 'वो गली'"
 * **Voiceover Script:** "उस सोसाइटी के इंटरकॉम पर रात को एक फ़्लैट की घंटी अपने आप बजती है। पूरी कहानी, यूट्यूब पर।"
 
-
-## 5. 2D Image Generation Department (Leonardo · Nano Banana Pro · Flux · Midjourney/Niji · Recraft · Ideogram)
-### Beat 1
-* **Main Character Prompt:** Deepak, vest and shorts, TV remote, headphones on neck, slouched on a sofa in a dark flat, TV glow, centered safe zone, [2D STYLE ANCHOR] --ar 9:16
-* **Supporting Character Prompt:** no one yet, an intercom panel on the wall, [2D STYLE ANCHOR] --ar 9:16
-* **Environment Prompt:** a dim living room at night, blue TV glow, a wall intercom panel, [2D STYLE ANCHOR] --ar 9:16
-* **Horror Entity Prompt:** none yet, one intercom button faintly glowing, [2D STYLE ANCHOR] --ar 9:16
-* **Action Shot Prompt:** Deepak lounging with the remote, [2D STYLE ANCHOR] --ar 9:16
-### Beat 2
-* **Main Character Prompt:** Deepak glancing at the buzzing intercom, vest, puzzled, [2D STYLE ANCHOR] --ar 9:16
-* **Supporting Character Prompt:** a faint frail flat shadow near the door, [2D STYLE ANCHOR] --ar 9:16
-* **Environment Prompt:** the intercom panel with one flat number flashing red and buzzing, centered, [2D STYLE ANCHOR] --ar 9:16
-* **Horror Entity Prompt:** the intercom buzzing on its own, eerie, [2D STYLE ANCHOR] --ar 9:16
-* **Action Shot Prompt:** close-up of an intercom button glowing red and buzzing (VMO), [2D STYLE ANCHOR] --ar 9:16
-### Beat 3
-* **Main Character Prompt:** Deepak frozen, vest, guilt and fear, [2D STYLE ANCHOR] --ar 9:16
-* **Supporting Character Prompt:** frail neighbor, crumpled night-kurta, hand on chest, sweat, desperate hollow eyes, [2D STYLE ANCHOR] --ar 9:16
-* **Environment Prompt:** the room in cold blue tint, intercom glowing, centered, [2D STYLE ANCHOR] --ar 9:16
-* **Horror Entity Prompt:** the neighbor's accusing desperate presence, [2D STYLE ANCHOR] --ar 9:16
-* **Action Shot Prompt:** close-up of the neighbor clutching his chest by the glowing intercom (VMO), [2D STYLE ANCHOR] --ar 9:16
-### Beat 4
-* **Main Character Prompt:** Deepak covering his ears as every intercom buzzes, vest, terror, [2D STYLE ANCHOR] --ar 9:16
-* **Supporting Character Prompt:** the neighbor fading, hollow eyes watching, [2D STYLE ANCHOR] --ar 9:16
-* **Environment Prompt:** the whole intercom panel screaming red, the front door shaking, centered, [2D STYLE ANCHOR] --ar 9:16
-* **Horror Entity Prompt:** unseen knocking on Deepak's door from outside, [2D STYLE ANCHOR] --ar 9:16
-* **Action Shot Prompt:** close-up of all intercom buttons glowing red at once (VMO), [2D STYLE ANCHOR] --ar 9:16
-### Beat 5
-* **Main Character Prompt:** no Deepak, only the dark room and intercom as in Beat 1, [2D STYLE ANCHOR] --ar 9:16
-* **Supporting Character Prompt:** a faint after-image of the neighbor, [2D STYLE ANCHOR] --ar 9:16
-* **Environment Prompt:** the room loop back to opening shot, centered, [2D STYLE ANCHOR] --ar 9:16
-* **Horror Entity Prompt:** one intercom button glowing and buzzing again (VMO), [2D STYLE ANCHOR] --ar 9:16
-* **Action Shot Prompt:** close-up of the intercom button buzzing again (VMO), hook for next victim, [2D STYLE ANCHOR] --ar 9:16
-
-
-## 4. Scene-by-Scene Breakdown (5-Beat Structure)
-### Beat 1 - SCROLL-STOPPER HOOK (0:00 - 0:03)
-* **Scene Description:** रात का फ़्लैट, टीवी की नीली रोशनी, दीवार पर इंटरकॉम पैनल।
-* **On-Screen Text:** घंटी अपने आप बजी
-* **Voiceover Script:** "उस सोसाइटी के इंटरकॉम पर रात को एक फ़्लैट की घंटी अपने आप बजती है।"
-### Beat 2 - ESCALATION & VMO (0:03 - 0:15)
-* **Scene Description:** दीपक टीवी देखता है; इंटरकॉम पर एक नंबर बार-बार बजता और लाल चमकता है।
-* **On-Screen Text:** वहाँ कोई नहीं रहता
-* **Voiceover Script:** "दीपक देर रात टीवी देख रहा था। तभी इंटरकॉम पर एक फ़्लैट का नंबर अपने आप बार-बार बजने लगा, लाल रंग में चमकता हुआ।"
-### Beat 3 - THE DROP / TWIST (0:15 - 0:25)
-* **Scene Description:** काँपती आवाज़; पीछे पड़ोसी की धुँधली झलक, सीने पर हाथ।
-* **On-Screen Text:** "तूने अनसुना किया"
-* **Voiceover Script:** "तभी एक काँपती आवाज़ आई, उसी रात मैंने मदद के लिए इसी घंटी से तुझे बुलाया था, पर तूने अनसुना कर दिया, और मैं तड़पकर मर गया।"
-### Beat 4 - AFTERSHOCK (0:25 - 0:32)
-* **Scene Description:** सारे इंटरकॉम एक साथ बजते हैं, दरवाज़ा बाहर से खटखटाता है।
-* **On-Screen Text:** अब तेरा दरवाज़ा
-* **Voiceover Script:** "अचानक हर फ़्लैट का इंटरकॉम एक साथ चीख़ने लगा, और दीपक का दरवाज़ा कोई बाहर से ज़ोर-ज़ोर से खटखटाने लगा।"
-### Beat 5 - SEAMLESS LOOP & CTA (0:32 - 0:35)
-* **Scene Description:** कट वापस Beat 1 के इंटरकॉम शॉट पर।
-* **On-Screen Text:** "पूरी कहानी → YouTube: 'वो गली'"
-* **Voiceover Script:** "उस सोसाइटी के इंटरकॉम पर रात को एक फ़्लैट की घंटी अपने आप बजती है। पूरी कहानी, यूट्यूब पर।"
-
-
 ## 5. 2D Image Generation Department (Leonardo · Nano Banana Pro · Flux · Midjourney/Niji · Recraft · Ideogram)
 ### Beat 1
 * **Main Character Prompt:** Deepak, vest and shorts, remote in hand, headphones on neck, slouched on a sofa in a dark flat, TV glow, centered safe zone, [2D STYLE ANCHOR] --ar 9:16
