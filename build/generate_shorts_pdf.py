@@ -160,10 +160,17 @@ def build(nums, label, subtitle, out_path):
 
 if __name__ == "__main__":
     os.makedirs(DOCS, exist_ok=True)
-    BATCHES = [
-        (range(1, 11),  "Shorts 01-10", "वो गली — Viral Shorts Production Packages  |  Shorts 01-10  |  full A-to-Z 10-department", "WO GALI SHORTS 01-10.pdf"),
-        (range(11, 21), "Shorts 11-20", "वो गली — Viral Shorts Production Packages  |  Shorts 11-20  |  full A-to-Z 10-department", "WO GALI SHORTS 11-20.pdf"),
-        (range(21, 31), "Shorts 21-30", "वो गली — Viral Shorts Production Packages  |  Shorts 21-30  |  full A-to-Z 10-department", "WO GALI SHORTS 21-30.pdf"),
-    ]
-    for nums, label, subtitle, fname in BATCHES:
+    ALL_BATCHES = []
+    for start in range(1, 100, 10):
+        end = start + 9
+        lbl = f"Shorts {start:02d}-{end:02d}"
+        sub = f"\u0935\u094b \u0917\u0932\u0940 \u2014 Viral Shorts Production Packages  |  {lbl}  |  full A-to-Z 10-department"
+        fn = f"WO GALI SHORTS {start:02d}-{end:02d}.pdf"
+        ALL_BATCHES.append((range(start, end + 1), lbl, sub, fn))
+
+    # Optional CLI: pass a start number (e.g. 31) to build from that batch onward.
+    start_from = int(sys.argv[1]) if len(sys.argv) > 1 else 1
+    for nums, label, subtitle, fname in ALL_BATCHES:
+        if nums.start < start_from:
+            continue
         build(nums, label, subtitle, os.path.join(DOCS, fname))
