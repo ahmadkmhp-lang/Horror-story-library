@@ -1,0 +1,148 @@
+==================================================
+FILM 85 : जो जहाज़ कभी नहीं तैरा
+(The Ship That Never Floated)
+FILE 9 — THE FORGOTTEN TRADES EDITION
+==================================================
+
+NO-REPEAT CONFIRMATION (vs MASTER BAN-LIST through Film 84): Setting (Boat-building Dry-dock) fresh; VMO (ship's figurehead with painted eyes) fresh; Twist (Protagonist already dead) returns legally — paired with a brand-new setting AND new VMO; Fear pair (Drowning/Sinking + Abandonment) does not repeat the previous film (84 = Machinery/Dismemberment + Greed).
+SAFETY NOTE: drowning is stylized — fog, rising water, silhouettes; NO graphic content; the child's loss is handled poignantly, non-graphically.
+
+VIRAL SEO METADATA
+* YouTube Title: जो जहाज़ कभी नहीं तैरा | सुनसान गोदी की सबसे डरावनी रात | Wo Gali Horror Film
+* Thumbnail Prompt: An abandoned boat-building dry-dock at dusk, a great derelict wooden ship on a slipway, scaffolding, a foggy rising tide, a carved ship's figurehead with vivid painted eyes weeping brine in the foreground, a proud old shipwright below, cold blue-grey-and-brine palette, 2D dark illustration, cinematic comic style, cel-shaded, 16:9. (VMO featured front-and-center.)
+* Thumbnail Text (2–4 words): "ये डूबेगा"
+* Hook Text: नाख़ुदा यूसुफ़ अपने सबसे बड़े जहाज़ को आख़िरकार पानी में उतारने उस सुनसान गोदी पहुँचा, जहाँ एक लकड़ी की मूरत की रँगी आँखें, नमकीन आँसू बहा रही थीं।
+* Keywords/Tags: hindi horror story, wo gali, shipyard horror, dry dock bhootiya kahani, drowned ship ghost, time loop, hindi animated horror, 2d animation horror, scary story in hindi
+
+[PROTAGONIST ANCHOR]: Nakhuda Yusuf — 55, male, master shipwright, weathered proud face, grey beard, a salt-stained navy coat, a shipwright's adze, a brass tide-watch. Colors: navy, salt-grey.
+
+[SECONDARY ANCHOR]: Salim — 17, male, his apprentice-son, eager bright face, a coil of rope over his shoulder, a patched sailor's shirt; appears waving from the ship's deck, later a brine-soaked shade. Colors: faded blue, rope-brown.
+
+[VISUAL MEMORY OBJECT]: रँगी आँखों वाली जहाज़ की मूरत (a carved ship's figurehead with vivid painted eyes). Appears 3+ times, featured in the thumbnail. Hidden post-twist meaning: it is the figurehead of the doomed ship, salvaged each loop; its painted eyes "saw" the hull-crack Yusuf ignored, and they weep brine the moment before the ship sinks again — marking the launch that drowns them all, over and over.
+
+[HUMAN FLAW]: Pride / hubris — Yusuf cannot admit a flaw in his own work, and launched a cracked ship for glory and a deadline.
+[TWIST TYPE]: Protagonist Already Dead.
+[ENDING TYPE]: Endless Loop.
+[TARGET RUNTIME]: 12–15 min | [STRUCTURE]: 7-Sequence (Pause after Sequence 4).
+
+==================================================
+
+SEQUENCE 1 — आख़िरी लॉन्च (The Final Launch) [0:00–2:00] [BGM: low sea-swell drone + a creaking hull]
+
+[VO Tone: proud, eager, a craftsman's vanity]
+
+मेरी ज़िंदगी का सबसे बड़ा जहाज़, आज पानी में उतरने वाला था। मैं नाख़ुदा यूसुफ़ हूँ, इस इलाक़े का सबसे माहिर जहाज़साज़। उस सुनसान गोदी में, मेरा शाहकार, फिसलपट्टी पर खड़ा, समंदर का इंतज़ार कर रहा था। मुझे नहीं पता था कि कुछ जहाज़, हमारे डूबने से पहले ही, डूब चुके होते हैं।
+
+* SCENE BREAKDOWN: Extreme wide at dusk — a proud old shipwright walks into an abandoned boat-building dry-dock; a great derelict wooden ship on a slipway, scaffolding, a foggy rising tide. Cold blue-grey-and-brine palette.
+* IMAGINATION PROMPT: [PROTAGONIST ANCHOR] Nakhuda Yusuf in a salt-stained navy coat walking into an abandoned boat-building dry-dock at dusk, a great derelict wooden ship on a slipway, scaffolding, foggy rising tide, cold blue-grey-and-brine palette, 2D dark illustration, cinematic comic style, cel-shaded, clean separated layers, flat color aesthetic, 16:9.
+* 2D ANIMATION PROMPT: Slow push-in along the slipway toward the great ship; fog rolling off the tide; Yusuf's proud stride; the hull creaking.
+* AUDIO/SFX PROMPT: A low sea-swell drone, a creaking hull, lapping tide, Yusuf's confident footsteps; BGM mood cue — sea-swell drone with a creaking-hull groan.
+
+गोदी की फिसलपट्टी के सिरे पर, जहाज़ की वो लकड़ी की मूरत लगी थी — एक औरत का चेहरा, जिसकी आँखें इतनी असली रँगी थीं कि लगता था वो देख रही हो। और तभी, जहाज़ के डेक से, एक नौजवान ने मुझे हाथ हिलाया — मेरा बेटा, सलीम, जोश से भरा। "अब्बा, चलो, ज्वार आ रहा है!"
+
+* SCENE BREAKDOWN: At the slipway's head, the ship's wooden figurehead — a woman's face, its eyes painted so lifelike it seems to see. Then, from the ship's deck, a youth waves — his son, Salim, full of excitement. "Abba, come, the tide's rising!"
+* IMAGINATION PROMPT: A carved ship's figurehead [VMO] of a woman with vivid lifelike painted eyes at the slipway, [SECONDARY ANCHOR] Salim a bright-faced youth waving from the ship's deck to [PROTAGONIST ANCHOR] Yusuf below, cold blue-grey-brine, 2D dark illustration, cinematic comic style, cel-shaded, 16:9.
+* 2D ANIMATION PROMPT: Push-in on the figurehead's lifelike eyes; Salim waving eagerly from the deck; Yusuf's proud answering wave; the tide creeping up the slipway.
+* AUDIO/SFX PROMPT: A creak of the figurehead, Salim's eager call, lapping tide, a gull's cry; BGM — single uneasy struck note under the swell.
+
+मेरा सीना गर्व से भर गया। ये जहाज़, मेरे नाम को अमर कर देगा। पर एक पल को, उस मूरत की रँगी आँखों से, मुझे नमक का एक क़तरा टपकता दिखा — आँसू जैसा। मैंने उसे समंदर की फुहार समझकर, नज़रअंदाज़ कर दिया।
+
+* SCENE BREAKDOWN: Yusuf's chest swells with pride — this ship will make his name immortal. But for a moment, from the figurehead's painted eyes, he sees a drop of brine fall — like a tear. He dismisses it as sea-spray.
+* IMAGINATION PROMPT: Close-up of the ship's figurehead's [VMO] painted eyes with a single brine-tear falling, [PROTAGONIST ANCHOR] Yusuf below dismissing it proudly, cold blue-grey-brine, 2D dark illustration, cinematic comic style, cel-shaded, 16:9.
+* 2D ANIMATION PROMPT: A brine-drop wells and falls from the painted eye; Yusuf's proud face barely registers it; he turns to the launch.
+* AUDIO/SFX PROMPT: A faint brine-drip, a proud breath, lapping tide; BGM — held low note cutting to a wave-hush.
+
+(Retention hook — why does a wooden figurehead weep brine, and what is this ship Yusuf is so proud of?)
+
+---
+
+SEQUENCE 2 — तुम फिर आ गए, नाख़ुदा (You've Come Again, Nakhuda) [2:00–4:30] [BGM: sparse sea-flute + low bell-buoy]
+
+[VO Tone: proud, brushing off the old keeper]
+
+तभी एक बूढ़ा गोदी-रक्षक, अपनी लालटेन लिए आया। उसने मुझे देखकर दुख से सिर हिलाया। गोदी-रक्षक: "तुम फिर आ गए, नाख़ुदा यूसुफ़? हर ज्वार पर यही होता है।" मैंने हैरानी से कहा — कैसी बातें करते हो? आज तो मेरे जहाज़ का पहला लॉन्च है।
+
+* SCENE BREAKDOWN: An old dock-keeper comes with his lantern, shakes his head sadly: "You've come again, Nakhuda Yusuf? It happens every tide." Yusuf, puzzled: what nonsense — today is his ship's first launch.
+* IMAGINATION PROMPT: An old dock-keeper with a lantern speaking sadly to [PROTAGONIST ANCHOR] Yusuf at the foggy dry-dock, Yusuf proud and puzzled, the great ship behind, cold blue-grey-brine, 2D dark illustration, cinematic comic style, cel-shaded, 16:9.
+* 2D ANIMATION PROMPT: The keeper's frail approach, lantern swaying; his sorrowful head-shake; Yusuf's dismissive, puzzled frown.
+* AUDIO/SFX PROMPT: A frail knowing voice, a lantern creak, a distant bell-buoy; BGM — sparse sea-flute.
+
+गोदी-रक्षक मुझे एक पुरानी ज्वार-तख़्ती के पास ले गया। उस पर एक तारीख़ खुदी थी, दशकों पुरानी, और लिखा था, "इस गोदी का आख़िरी जहाज़, लॉन्च के दिन ही डूब गया।" मैंने आसपास देखा, और मेरी रीढ़ में सिहरन दौड़ी — गोदी की हर चीज़, जंग और काई से ढकी, बरसों से वीरान। (Clue 1)
+
+* SCENE BREAKDOWN: The keeper leads Yusuf to an old tide-board with a date carved decades ago: "This dock's last ship sank on the day of its launch." Yusuf looks around — a chill runs through him: everything in the dock is rust and moss, derelict for years.
+* IMAGINATION PROMPT: An old tide-board with a decades-old date reading the dock's last ship "sank on launch day," [PROTAGONIST ANCHOR] Yusuf reading it as he notices the dry-dock is rust-and-moss derelict, cold blue-grey-brine, 2D dark illustration, cinematic comic style, cel-shaded, 16:9.
+* 2D ANIMATION PROMPT: Push-in on the carved date and "sank on launch day"; pan to the rusted, moss-choked dock; Yusuf's dawning unease.
+* AUDIO/SFX PROMPT: A low ringing, dripping water, a distant bell-buoy; BGM — single held minor chord.
+
+मैंने उसकी बात झटक दी। मेरा जहाज़ नया था, मज़बूत था, मेरा शाहकार। ये डूब नहीं सकता। पर उस मूरत की रँगी आँखें, और उसके नमकीन आँसू, मेरे ज़हन में अटक गए।
+
+* SCENE BREAKDOWN: Yusuf dismisses it — his ship is new, strong, his masterpiece; it cannot sink. But the figurehead's painted eyes, and its brine-tears, stick in his mind.
+* IMAGINATION PROMPT: [PROTAGONIST ANCHOR] Yusuf dismissively turning back to his ship, the figurehead's [VMO] weeping painted eyes catching his unease, cold blue-grey-brine, 2D dark illustration, cinematic comic style, cel-shaded, 16:9.
+* 2D ANIMATION PROMPT: Yusuf's proud dismissal; a troubled glance back at the weeping figurehead; the tide rising higher.
+* AUDIO/SFX PROMPT: A proud scoff, a brine-drip, lapping tide; BGM — low foreboding note.
+
+(Ends unresolved: why is the dock derelict for decades if Yusuf's ship is new — and what sank "on launch day"?)
+
+---
+
+SEQUENCE 3 — फिर वही ज्वार (The Same Tide Again) [4:30–7:00] [BGM: minimal disorienting swell + reversed gull-cries]
+
+[VO Tone: rationalizing, the launch turning wrong]
+
+ज्वार चढ़ा, और मैंने लॉन्च का हुक्म दिया। जहाज़ फिसलपट्टी से सरककर, पानी में उतरा। एक पल को, वो शान से तैरा। पर फिर, उसके पेंदे से, पानी फूटने लगा। एक दरार। जहाज़ डूबने लगा। सलीम, डेक से, मुझे पुकारने लगा। मैंने खुद को समझाया — ये कोई और जहाज़ होगा, कोई बुरा ख़्वाब।
+
+* SCENE BREAKDOWN: The tide rises; Yusuf orders the launch. The ship slides down the slipway into the water. For a moment it floats proudly. Then water bursts through its hull — a crack. The ship begins to sink. Salim, from the deck, cries out to him. Yusuf rationalizes — some other ship, a bad dream. (Stylized, non-gory.)
+* IMAGINATION PROMPT: A great wooden ship sliding into foggy water then sinking as a hull-crack bursts, [SECONDARY ANCHOR] Salim crying out from the tilting deck, [PROTAGONIST ANCHOR] Yusuf watching from the slipway in horror, cold blue-grey-brine, 2D dark illustration, cinematic comic style, cel-shaded, 16:9.
+* 2D ANIMATION PROMPT: The ship launches and floats; water bursts from the hull-crack; it tilts and sinks; Salim waves frantically from the deck; Yusuf frozen.
+* AUDIO/SFX PROMPT: A launch-splash, a wood-crack, rushing water, Salim's distant cry; BGM — minimal disorienting swell with reversed gull-cries.
+
+मैं पानी की ओर भागा, पर जैसे ही जहाज़ डूबा, सब कुछ झिलमिलाया — और मैं फिर से, फिसलपट्टी के पास खड़ा था, जहाज़ फिर से खड़ा, सलीम फिर से डेक से हाथ हिलाता। मैं एक ही पल में, बार-बार लौट रहा था। और हर बार, वो मूरत की आँखें, लॉन्च से ठीक पहले, नमकीन आँसू बहातीं।
+
+* SCENE BREAKDOWN: Yusuf runs toward the water, but as the ship sinks, everything shimmers — and he's back at the slipway again, the ship whole again, Salim waving from the deck again. He's looping back to the same moment. And each time, the figurehead's eyes weep brine just before the launch.
+* IMAGINATION PROMPT: [PROTAGONIST ANCHOR] Yusuf snapping back to the slipway in a time-loop, the ship whole again and [SECONDARY ANCHOR] Salim waving again, the figurehead's [VMO] eyes weeping just before launch, cold blue-grey-brine, 2D dark illustration, cinematic comic style, cel-shaded, 16:9.
+* 2D ANIMATION PROMPT: A shimmer-reset snaps Yusuf back to the slipway; the ship restored; Salim's repeated wave; the figurehead weeping on cue.
+* AUDIO/SFX PROMPT: A reset-whoosh, lapping tide, Salim's looping call, a brine-drip; BGM — descending loop-motif.
+
+मैंने आँखें मलीं। पर मेरे हाथ में, अब एक चीज़ थी — वो लकड़ी की मूरत का एक टुकड़ा, जो हर डूबे जहाज़ से निकाला जाता है। और उसकी रँगी आँखें, मुझे घूर रही थीं, मानो कह रही हों — तुमने हमें देखा था।
+
+* SCENE BREAKDOWN: Yusuf rubs his eyes. But now something is in his hand — a piece of the wooden figurehead, the kind salvaged from every sunken ship. And its painted eyes stare at him, as if to say — you saw us. (You saw the flaw.)
+* IMAGINATION PROMPT: Close-up of a salvaged piece of the ship's figurehead [VMO] with staring painted eyes in [PROTAGONIST ANCHOR] Yusuf's hands, dread dawning, cold blue-grey-brine, 2D dark illustration, cinematic comic style, cel-shaded, 16:9.
+* 2D ANIMATION PROMPT: The figurehead-piece in his grip; its painted eyes seem to fix on him; brine drips from them; Yusuf's flinch.
+* AUDIO/SFX PROMPT: A wet wood-creak, a brine-drip, a low ring; BGM — single dissonant note held long.
+
+(Ends unresolved: why does the launch loop, and what did the figurehead's eyes "see" that Yusuf won't admit?)
+
+---
+
+SEQUENCE 4 — डूबे हुओं में मेरा नाम (My Name Among the Drowned) [7:00–9:30] [BGM: dissonant note + deep underwater groan]
+
+[VO Tone: cracking, the pride drowning in truth]
+
+मैं गोदी के दफ़्तर की ओर भागा, और एक पुरानी जाँच-रिपोर्ट देखी। और मेरी रूह काँप गई। उस आख़िरी जहाज़ के पेंदे में एक दरार थी — और जहाज़साज़ को, लॉन्च से पहले, उसके अपने बेटे ने उस दरार के बारे में चेताया था। पर जहाज़साज़ ने, अपने घमंड और तारीख़ के दबाव में, उस चेतावनी को ठुकरा दिया। (Clue → Contradiction)
+
+* SCENE BREAKDOWN: Yusuf runs to the dock office and finds an old inquiry report. His blood runs cold — that last ship had a crack in its hull, and the shipwright had been warned of it, before the launch, by his own son. But the shipwright, in his pride and deadline-pressure, dismissed the warning.
+* IMAGINATION PROMPT: [PROTAGONIST ANCHOR] Yusuf reading an old inquiry report in the derelict dock office, damning lines about an ignored hull-crack warning from the shipwright's son, dread on his face, cold dim blue-grey, 2D dark illustration, cinematic comic style, cel-shaded, 16:9.
+* 2D ANIMATION PROMPT: Report page-turn; slow zoom on "warned by his son / dismissed"; a faint flashback of a young Salim pointing at the hull-crack; Yusuf's stricken face.
+* AUDIO/SFX PROMPT: Brittle paper-rasp, a deep underwater groan, a faint boy's warning echo; BGM — dissonant single note held long.
+
+(Contradiction) तभी, मुझे दीवार पर एक स्मृति-तख़्ती दिखी, उस हादसे में डूबे लोगों के नाम। और उस सूची में, सबसे ऊपर, दो नाम थे — मेरे बेटे, सलीम का, और मेरा अपना। नाख़ुदा यूसुफ़। मैं उस जहाज़ के साथ, दशकों पहले, डूब चुका था।
+
+* SCENE BREAKDOWN: Then he sees a memorial plaque on the wall, names of those drowned in that disaster. And at the top of the list, two names — his son Salim's, and his own. Nakhuda Yusuf. He had drowned with that ship, decades ago.
+* IMAGINATION PROMPT: [PROTAGONIST ANCHOR] Yusuf staring at a memorial plaque of the drowned where his son Salim's name and his own name "Nakhuda Yusuf" sit at the top, dawning horror, cold dim blue-grey, 2D dark illustration, cinematic comic style, cel-shaded, 16:9.
+* 2D ANIMATION PROMPT: Track across the drowned names; push-in on "Salim" and "Nakhuda Yusuf"; Yusuf's collapse of realization.
+* AUDIO/SFX PROMPT: A low ringing, a deep underwater groan, a sharp inhale; BGM — low brass swell, unresolved.
+
+मैंने ना में सिर हिलाया, पर सब साफ़ हो गया। मेरे घमंड ने मेरे अपने बेटे की चेतावनी ठुकराई थी। मेरे जहाज़ ने उसे, और मुझे, डुबो दिया था। और तब से, मैं हर ज्वार पर, उसी लॉन्च को दोहरा रहा था, इस उम्मीद में कि इस बार जहाज़ तैरेगा, और मेरा बेटा बचेगा।
+
+* SCENE BREAKDOWN: Yusuf shakes his head, but it all becomes clear. His pride dismissed his own son's warning. His ship drowned the boy, and him. And ever since, every tide, he's been repeating that same launch, hoping that this time the ship will float and his son will live.
+* IMAGINATION PROMPT: [PROTAGONIST ANCHOR] Yusuf in dawning grief at the dry-dock as the memory returns, the ghost ship and [SECONDARY ANCHOR] Salim waving beyond, the figurehead [VMO] weeping, cold blue-grey-brine, 2D dark illustration, cinematic comic style, cel-shaded, 16:9.
+* 2D ANIMATION PROMPT: Memory-flashes of the ignored warning and the sinking; Yusuf's grief; the ghost ship and Salim looming; the figurehead weeping.
+* AUDIO/SFX PROMPT: A hollow ring, a faint "अब्बा", a deep swell; BGM — descending dread into a held tone.
+
+(Ends on a contradiction — Yusuf's pride drowned his son and himself decades ago, and he loops the fatal launch every tide; the figurehead weeps for the warning he ignored. Can a launch refused-to-be-questioned ever be undone?)
+
+==================================================
+PART 1 COMPLETE — PAUSE POINT (after Sequence 4).
+Type 'Continue Sequence 5' to resume.
+In Part 2: S5 (False Relief) -> S6 (Truth Reveal — strongest horror: why the loop can never save Salim) -> S7 (Climax + Endless-Loop Aftershock), plus the END-OF-FILM CHECK.
+==================================================
